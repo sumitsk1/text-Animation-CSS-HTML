@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	height: 100vh;
+	display: flex;
+	background-color: black !important;
+	justify-content: center;
+	align-items: center;
+
+}
+p{
+	font-family: 'Dancing Script', cursive;
+	font-size: 20rem;
+	font-weight: bold;
+	background-image: url(26.png);
+	background-size: cover;
+	-webkit-background-clip: text !important;
+	color: transparent;
+
+}
